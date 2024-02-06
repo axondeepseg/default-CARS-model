@@ -1,0 +1,14 @@
+{
+    "train": {
+        "sample-01": "sub-rat1",
+        "sample-04": "sub-rat1",	
+        "sample-07": "sub-rat1",	
+        "sample-08": "sub-rat1",		
+        "sample-11": "sub-rat1",	
+        "sample-13": "sub-rat1",	
+        "sample-14": "sub-rat1"
+    },
+    "test": {
+        "sample-15": "sub-rat1"
+    }
+}
